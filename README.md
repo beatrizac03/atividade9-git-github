@@ -33,20 +33,24 @@ Passos para postar um projeto:
 9 - Iniciar repositório git 
 
     - git init
-    Após esse comando, aparecerá uma pasta .git no diretório do projeto
+    Obs.: Após esse comando, aparecerá uma pasta .git no diretório do projeto
     
 10 - Adicionar arquivos do diretório para o repositório
-    <li>git add nome-do-arquivo  : adiciona um arquivo específico</li>
-    <li>git add .                : adiciona todos os arquivos</li>
+    
+    - git add nome-do-arquivo  : adiciona um arquivo específico
+    - git add .                : adiciona todos os arquivos
     
 11 - Fazer commit
-    <li>git commit -m “Mensagem de commit”</li>
+
+    - git commit -m “Mensagem de commit”
     
 12 - Adicionar repositório github de destino
-    <li>git remote add origin "https://github.com/nome-usuario/nome-repositorio.git"</li>
-	  É possível copiar o link do repositório no github
+
+    - git remote add origin "https://github.com/nome-usuario/nome-repositorio.git"
+    Obs.: É possível copiar o link do repositório no github
    
 13 - Enviar para o repositório remoto/Github
+
     <li>git push origin main</li>
     
 14 - Caso o projeto seja um site: 
