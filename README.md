@@ -51,12 +51,12 @@ Passos para postar um projeto:
    
 13 - Enviar para o repositório remoto/Github
 
-    <li>git push origin main</li>
+    - git push origin main
     
 14 - Caso o projeto seja um site: 
-    <li>“Settings”</li>
-    <li>“Pages”</li>
-    <li>Em “Branch” selecione main e “Save”.</li>
-	Após isso, o site será hospedado e terá o link de acesso no início de “Pages”, podendo adicioná-lo no README para outras pessoas visualizarem.
+    -> “Settings”
+    -> “Pages”
+    -> Em “Branch” selecione main e “Save”
+   Após isso, o site será hospedado e terá o link de acesso no início de “Pages”, podendo adicioná-lo no README para outras pessoas visualizarem.
 
 
