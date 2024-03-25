@@ -7,6 +7,7 @@ Git é uma ferramenta de versionamento de código, que possui integração com o
 Plataforma que visa criar, revisar, participar e atualizar projetos voltados ao desenvolvimento de software. Com suporte a várias linguagens de programação, o Github permite upar, revisar, hospedar e contribuir com projetos desenvolvidos, exibindo no repositório quais tecnologias foram utilizadas. Dessa forma, é possível categorizar projetos por LP usada, facilitando estudos, análises e recrutamento de profissionais. 
 
 Passos para postar um projeto:
+
 1 - Criar uma conta Github
 
 2 - Instalar Git na máquina
@@ -54,6 +55,7 @@ Passos para postar um projeto:
     - git push origin main
     
 14 - Caso o projeto seja um site: 
+
     -> “Settings”
     -> “Pages”
     -> Em “Branch” selecione main e “Save”
