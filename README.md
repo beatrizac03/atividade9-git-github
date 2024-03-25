@@ -6,6 +6,7 @@ Git é uma ferramenta de versionamento de código, que possui integração com o
 <h2>GITHUB</h2>
 Plataforma que visa criar, revisar, participar e atualizar projetos voltados ao desenvolvimento de software. Com suporte a várias linguagens de programação, o Github permite upar, revisar, hospedar e contribuir com projetos desenvolvidos, exibindo no repositório quais tecnologias foram utilizadas. Dessa forma, é possível categorizar projetos por LP usada, facilitando estudos, análises e recrutamento de profissionais. 
 
+
 Passos para postar um projeto:
 
 1 - Criar uma conta Github
