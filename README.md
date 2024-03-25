@@ -26,8 +26,9 @@ Passos para postar um projeto:
     - cd url-da-pasta
     
 8 - Configurar email e usuário para commitar
-    <li>git config --global user.name "Seu Nome"</li>
-        git config --global user.email  "seu@email.com"
+
+    - git config --global user.name "Seu Nome"
+      git config --global user.email  "seu@email.com"
 	
 9 - Iniciar repositório git 
     <li>git init</li>
