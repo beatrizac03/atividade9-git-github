@@ -39,7 +39,7 @@ Passos para postar um projeto:
     <li>git commit -m “Mensagem de commit”</li>
     
 12 - Adicionar repositório github de destino
-    <li>git remote add origin https://github.com/nome-usuario/nome-repositorio.git</li>
+    <li>git remote add origin "https://github.com/nome-usuario/nome-repositorio.git"</li>
 	  É possível copiar o link do repositório no github
    
 13 - Enviar para o repositório remoto/Github
