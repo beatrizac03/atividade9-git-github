@@ -28,10 +28,10 @@ Passos para postar um projeto:
 8 - Configurar email e usuário para commitar
 
     - git config --global user.name "Seu Nome"
-      git config --global user.email  "seu@email.com"
+    - git config --global user.email  "seu@email.com"
 	
 9 - Iniciar repositório git 
-    <li>git init</li>
+    - git init
     Após esse comando, aparecerá uma pasta .git no diretório do projeto
     
 10 - Adicionar arquivos do diretório para o repositório
