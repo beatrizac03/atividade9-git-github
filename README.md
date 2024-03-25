@@ -15,7 +15,7 @@ Passos para postar um projeto:
 
 4 - Checar se está instalado:
 
-    + git --version
+    - git --version
   
 5 - Ir à pasta no explorador de arquivos, onde está localizado o projeto que deseja upar no Github
 
