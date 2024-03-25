@@ -31,6 +31,7 @@ Passos para postar um projeto:
     - git config --global user.email  "seu@email.com"
 	
 9 - Iniciar repositório git 
+
     - git init
     Após esse comando, aparecerá uma pasta .git no diretório do projeto
     
