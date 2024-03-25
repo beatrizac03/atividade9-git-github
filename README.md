@@ -22,7 +22,8 @@ Passos para postar um projeto:
 6 - Copiar o endereço da pasta
 
 7 - Mudar de diretório no CMD:
-    <li>cd url-da-pasta</li>
+
+    - cd url-da-pasta
     
 8 - Configurar email e usuário para commitar
     <li>git config --global user.name "Seu Nome"</li>
