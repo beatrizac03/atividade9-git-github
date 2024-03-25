@@ -14,6 +14,7 @@ Passos para postar um projeto:
 3 - Abrir CMD ou Git Bash para executar os comandos
 
 4 - Checar se está instalado:
+
     + git --version
   
 5 - Ir à pasta no explorador de arquivos, onde está localizado o projeto que deseja upar no Github
